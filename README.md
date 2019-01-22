@@ -13,3 +13,11 @@ https://socialblade.com/youtube/channel/UCSJ4gkVC6NrvII8umztf0Ow/monthly
 
 #### Playlist
 https://open.spotify.com/playlist/6eHO8aX6lHu3e6bem8r2rq?si=6H6jMQQBRKOPCAeLJPmiFQ
+
+
+
+## Secondary Resources 
+Cybersole is the best comsummer bot
+https://cybersole.io/
+https://github.com/topics/supreme
+https://github.com/topics/supreme
