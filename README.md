@@ -26,4 +26,4 @@ Cybersole is the best comsummer bot
 ### github topics 
 https://github.com/topics/supreme
 
-https://github.com/topics/supreme
+https://github.com/topics/supreme-bot
