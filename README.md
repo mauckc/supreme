@@ -20,7 +20,8 @@ https://open.spotify.com/playlist/6eHO8aX6lHu3e6bem8r2rq?si=6H6jMQQBRKOPCAeLJPmi
 Cybersole is the best comsummer bot
  
  https://cybersole.io/
-
+cybersole has muti sites that u can run the bot on 
+it is the fasted bot aio
 
 
 ### github topics 
